@@ -1,0 +1,11 @@
+{
+  "name": "webpack-files-changed-plugin",
+  "version": "1.0.0",
+  "description": "Print out the files changed that trigger the webpack compilation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barry Owens",
+  "license": "ISC"
+}
